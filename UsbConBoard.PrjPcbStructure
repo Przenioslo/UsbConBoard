@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=top.SchDoc
+Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=USB1|SchDesignator=REPEAT(USB,1,2)|FileName=usb.SchDoc|SymbolType=Normal|RawFileName=usb.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=USB2|SchDesignator=REPEAT(USB,1,2)|FileName=usb.SchDoc|SymbolType=Normal|RawFileName=usb.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=usb.SchDoc|Designator=CFGA|SchDesignator=CFGA|FileName=config.SchDoc|SymbolType=Normal|RawFileName=config.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=usb.SchDoc|Designator=CFGB|SchDesignator=CFGB|FileName=config.SchDoc|SymbolType=Normal|RawFileName=config.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
