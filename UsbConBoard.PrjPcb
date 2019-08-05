@@ -122,13 +122,34 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KPKGFWSF
 
-[Parameter1]
-Name=ver
-Value=1
+[Document6]
+DocumentPath=config.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[Parameter2]
+[GeneratedDocument1]
+DocumentPath=Project Outputs for UsbConBoard\Design Rule Check - UsbConBoard.html
+DItemRevisionGUID=
+
+[Parameter1]
 Name=id
 Value=UsbConBoard
+
+[Parameter2]
+Name=ver
+Value=1
 
 [Configuration1]
 Name=Sources
